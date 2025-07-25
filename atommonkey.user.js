@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Atom ID Field Copier
 // @namespace    http://tampermonkey.net/
-// @version      1.4
+// @version      1.5
 // @description  Adds a small button to each 'atom' field to copy its numeric ID to the clipboard.
 // @author       You
 // @match        *://*/*form/item*
